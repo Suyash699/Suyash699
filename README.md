@@ -4,6 +4,17 @@
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> www.linkedin.com/in/suyash-pandey-400b67133
 
+---
+
+A web developer, specializing in web technologies such as Javascript and its frameworks, HTML, CSS, etc.
+
+I have 2.8 years of experience as an application administrator/support personnel at a reputed IT firm.
+
+But as I was fascinated with the world of development, I decided to switch to web development.
+
+Till now, I have been only creating projects and gaining experience! Kindly connect if you have any suggestions/projects for me!
+
+
 <!--
 **Suyash699/Suyash699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
