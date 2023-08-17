@@ -26,9 +26,16 @@ Till now, I have been only creating projects and gaining experience! Kindly conn
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px" height="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px" />
 </span>
 
 ---
+
+- 🔭 I’m currently working on an ecommerce and shopping website
+- 🌱 I’m currently learning redux-toolkit and jest
+- 👯 I’m looking to collaborate on various react and JS based open source projects
+- 🤔 I’m looking for help with getting started with open source and understanding big codebases
+- 💬 Ask me about anything web development!!
 
 
 <!--
@@ -36,12 +43,5 @@ Till now, I have been only creating projects and gaining experience! Kindly conn
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
