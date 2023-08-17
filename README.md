@@ -21,12 +21,13 @@ Till now, I have been only creating projects and gaining experience! Kindly conn
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50px" height="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px" />
 </span>
 
 ---
